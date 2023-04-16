@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Deeper-Working/static/css/main.2c7df174.css",
+    "main.js": "/Deeper-Working/static/js/main.3696cfc3.js",
+    "index.html": "/Deeper-Working/index.html",
+    "main.2c7df174.css.map": "/Deeper-Working/static/css/main.2c7df174.css.map",
+    "main.3696cfc3.js.map": "/Deeper-Working/static/js/main.3696cfc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c7df174.css",
+    "static/js/main.3696cfc3.js"
+  ]
+}
